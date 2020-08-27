@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Whoever said that the definition of insanity is doing the same thing over and over again and expecting different results has obviously never had to reboot a computer.
+—William Petersen
 <!--
 **BabtuhAuss/BabtuhAuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
